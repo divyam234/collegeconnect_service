@@ -1,2 +1,2 @@
-# collegeconnect_service
+# College Connect Service
 College Connect Service

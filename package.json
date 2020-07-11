@@ -21,7 +21,7 @@
     "mysql2": "^1.6.4",
     "nodemon": "^1.18.10",
     "randexp": "^0.5.3",
-    "sequelize": "^4.42.0",
+    "sequelize": "^5.15.1",
     "uuid": "^3.3.2"
   }
 }

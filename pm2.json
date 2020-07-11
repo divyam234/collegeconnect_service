@@ -1,0 +1,10 @@
+{
+  "apps" : [{
+    "name"       : "cc",
+    "script"     : "./app.js",
+    "watch"      : true,
+    "ignore_watch" : ["attachment","profiles"],
+    "instances" : "max",
+    "exec_mode"  : "cluster"
+  }]
+}
